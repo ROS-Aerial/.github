@@ -1,4 +1,4 @@
-Hi! Welcome to the github organization of the ROS community working group! 
+Hi! Welcome to the github organization of the ROS aerial robotics community working group! 
 
 This is still a bit under construction but do come by for more info!
 
