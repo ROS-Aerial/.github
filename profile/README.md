@@ -1,5 +1,7 @@
 Hi! Welcome to the github organization of the ROS aerial robotics community working group! 
 
-This is still a bit under construction but do come by for more info!
+We aim to have bi-weekly weekings, one with an project presentation and one facilitating discussions. These will be announced on Discourse and the [ROS community google calendar](https://calendar.google.com/calendar/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0%40group.calendar.google.com&ctz=UTC).
 
-We mostly communicate on the aerial vehicles discourse channel: https://discourse.ros.org/c/aerial-vehicles
+We mostly communicate on the Aerial Vehicles Discourse category: https://discourse.ros.org/c/aerial-vehicles
+
+
